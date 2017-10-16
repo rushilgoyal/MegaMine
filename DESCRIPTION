@@ -1,0 +1,11 @@
+Package: megamine
+Title: Analyze_all_data
+Version: 0.1
+Authors: rushil
+Description: This package analyses your dataset and evaluates a performance comparison matrix
+License: MIT
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Depends: R (>= 3.0.1)
+NeedsCompilation: no
+Packaged: 2016-12-24 06:58:22 UTC; rushilgoyal
